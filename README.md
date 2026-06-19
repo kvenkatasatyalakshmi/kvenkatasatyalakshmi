@@ -1,5 +1,16 @@
-# 💫 About Me:
-# Hi there, I'm Satya 👋<br><br>🎓 CSE (AI & ML) Student<br><br>💡 Interested in AI/ML, Full-Stack Development, and Software Engineering<br><br>🌱 Currently learning:<br>- Data Structures & Algorithms<br>- DBMS, OS, CN, OOP<br>- Full-Stack Development<br><br>🏆 Hackathon & Ideathon Participant<br><br>🤝 Team Leader for Academic Projects<br><br>📈 Goal: Become a skilled Software Engineer and contribute to impactful products<br><br>⚡ Fun Fact: I love dancing and exploring new technologies.
+# Hi, I'm Satya 👋
+
+🎓 CSE (AI & ML) Student
+
+💻 AI/ML | Full-Stack Development | Software Engineering
+
+🏆 Hackathon Participant
+
+🤝 Team Leader for Academic Projects
+
+🌱 Learning DSA, Core CS, and Web Development
+
+📫 LinkedIn: www.linkedin.com/in/venkata-satya-lakshmi-konathala-7242ba293
 
 
 ## 🌐 Socials:
